@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="300" viewBox="0 0 1280 300" role="img" aria-labelledby="t d">
+  <title id="t">Tazmir Hossain — B2B Lead Warriors</title>
+  <desc id="d">Banner reading Tazmir Hossain, B2B Lead Warriors, B2B Lead Generation and Data Research Specialist.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1A2E"/>
+      <stop offset="1" stop-color="#11263F"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="300" rx="16" fill="url(#bg)"/>
+  <g stroke="#1F3A57" stroke-width="1" opacity="0.6">
+    <line x1="940" y1="0" x2="940" y2="300"/>
+    <line x1="1020" y1="0" x2="1020" y2="300"/><line x1="1100" y1="0" x2="1100" y2="300"/>
+    <line x1="1180" y1="0" x2="1180" y2="300"/>
+    <line x1="900" y1="70" x2="1280" y2="70"/><line x1="900" y1="150" x2="1280" y2="150"/>
+    <line x1="900" y1="230" x2="1280" y2="230"/>
+  </g>
+  <g fill="#2DD4BF">
+    <circle cx="940" cy="70" r="5"/><circle cx="1100" cy="150" r="5"/><circle cx="1020" cy="230" r="5"/>
+    <circle cx="1180" cy="70" r="3" opacity="0.6"/>
+  </g>
+  <rect x="80" y="72" width="8" height="156" rx="4" fill="#2DD4BF"/>
+  <text x="116" y="128" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="62" font-weight="700" fill="#F1F5F9">Tazmir Hossain</text>
+  <text x="116" y="176" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="36" font-weight="600" fill="#2DD4BF">B2B Lead Warriors</text>
+  <text x="116" y="220" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="28" fill="#A8B5C7">B2B Lead Generation &amp; Data Research Specialist</text>
+</svg>
