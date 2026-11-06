@@ -28,6 +28,14 @@ Top Rated Plus on Upwork · $200K+ earned · 670+ jobs · 17,000+ hours worked
 
 Email verification status and check dates are recorded; phone numbers are marked as sourced unless independently checked.
 
+## Work samples
+
+Demonstration projects built with **synthetic data** — they show structure and method, not client work.
+
+- **[B2B Lead Research Sample](https://github.com/tazmir5566/b2b-lead-research-sample)** — 15-record prospect list with a data dictionary and quality checklist.
+- **[Data Cleaning and Quality Check](https://github.com/tazmir5566/data-cleaning-quality-check)** — 20 messy rows cleaned to 18, with an issue log and cleaning rules.
+- **[Market Research Sample](https://github.com/tazmir5566/market-research-sample)** — 12 companies assessed against four criteria, with reasons.
+
 ## Tools
 
 | Purpose | Tools |
