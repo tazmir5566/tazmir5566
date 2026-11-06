@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" width="100%" alt="Tazmir Hossain — B2B Lead Warriors. B2B Lead Generation and Data Research Specialist.">
+  <img src="banner.svg" width="100%" alt="Tazmir Hossain — B2B Lead Warriors. B2B Lead Generation and Data Research Specialist.">
 </p>
 
 ## Hi, I'm Tazmir Hossain
